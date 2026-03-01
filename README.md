@@ -2,7 +2,7 @@
 
 An AI-powered Traffic Monitoring System designed to detect, analyze, and manage urban traffic using real-time computer vision and deep learning techniques.
 
-Traffic congestion is a major issue in modern cities such as **China**, **Dhaka**, **New York City**, **Mumbai**, **Jakarta**, and **São Paulo**. This system provides an intelligent solution to monitor vehicle movement, analyze traffic density, and support smarter urban planning decisions.
+Traffic congestion is a major issue in modern cities such as **China**, **Dhaka**, **New York City**, **Mumbai**,  and **Jakarta**. This system provides an intelligent solution to monitor vehicle movement, analyze traffic density, and support smarter urban planning decisions.
 
 
 ## 🚦 Project Overview
