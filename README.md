@@ -7,7 +7,7 @@ Traffic congestion is a major issue in modern cities such as **China**, **Dhaka*
 
 ## 🚦 Project Overview
 
-The Traffic Monitoring System uses **YOLOv8**, a state-of-the-art deep learning model, to detect and classify:
+The Traffic Monitoring System uses **YOLOv8n**, a state-of-the-art deep learning model, to detect and classify:
 
 * Cars
 * Buses
